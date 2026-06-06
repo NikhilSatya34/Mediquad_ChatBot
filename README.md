@@ -400,13 +400,6 @@ python -m streamlit run medical_app.py
 
 **Nikhil** | Data Science Intern | Elevance Skills Technologies
 
-- **Week 1**: Sentiment Analysis Chatbot ✅
-- **Week 2**: Medical Q&A Chatbot 🏥
-- **Week 3**: Dynamic Knowledge Base 📚
-- **Week 4**: Multilingual Chatbot 🌍
-
----
-
 ## 📧 Contact
 
 **Email**: b.nikhilsatya.dev@gmail.com  
